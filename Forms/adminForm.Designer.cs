@@ -1,4 +1,4 @@
-namespace DB_PROJECT_DEMO
+﻿namespace DB_PROJECT_DEMO
 {
     partial class AdminForm
     {
