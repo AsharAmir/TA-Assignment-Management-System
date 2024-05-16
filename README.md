@@ -23,7 +23,6 @@ Welcome to the TA Assignment System! This project is designed to manage the sche
 ![DB3](https://i.postimg.cc/9zxcd0Xt/db3.png)
 
 ## Usage
-## Usage
 ### Login
 Select the role you want to log in as (Student, Instructor, Admin).
 
